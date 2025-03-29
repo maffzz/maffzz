@@ -1,8 +1,7 @@
 
 ## hello world 🌱
 
-<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/d4ad3bc7-e734-484f-91cb-c9dd26cedba8" />
-
+<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/070b44ad-1418-4fbd-b539-1ff0bdf1d176"/>
 
 cout << "🪷 DS undergraduate student" << endl;  
 cout << "🌯 AI and Machine Learning" << endl;  
