@@ -2,10 +2,6 @@
 ## hello world 🌱
 
 <img align="right" alt="GIF" src="https://github.com/user-attachments/assets/070b44ad-1418-4fbd-b539-1ff0bdf1d176"/>
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   
 
 🥭 currently learning how to use GitHub  
 🪷 DS undergraduate student  
