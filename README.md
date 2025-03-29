@@ -5,7 +5,7 @@
 
 
 cout << "🪷 DS undergraduate student" << endl;  
-cout << "🌯 IA and Machine Learning" << endl;  
+cout << "🌯 AI and Machine Learning" << endl;  
 cout << "🥠 group projects enjoyer" << endl;  
 cout << "🥭 currently learning how to use GitHub" << endl;  
 
