@@ -7,9 +7,9 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{maffzz}/count.svg" alt="maffzz :: visitor's count" /></p>
 
-🥭 currently learning how to use GitHub  
+🥭 currently learning how to use github  
 🪷 data science undergrad  
 🥠 group projects enthusiast  
-🌯 passionate about Math and Neuroscience  
+🌯 passionate about math and neuroscience  
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=vt3p61jsvm3jhcyxwihcpiydh&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
