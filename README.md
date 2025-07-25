@@ -3,10 +3,6 @@
 
 <img align="right" alt="GIF" src="https://github.com/user-attachments/assets/070b44ad-1418-4fbd-b539-1ff0bdf1d176"/>
 
-<h4 align="center">visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{maffzz}/count.svg" alt="maffzz :: visitor's count" /></p>
-
 🪷 data science undergrad  
 🥠 group projects enthusiast  
 🥭 currently learning how to use github  
