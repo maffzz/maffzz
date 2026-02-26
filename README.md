@@ -7,7 +7,7 @@
 🥠 group projects enthusiast  
 🌯 passionate about math and neuroscience  
 🎧 music fuels my coding sessions  
-🐱 snupi & cat lover  
+🐱 snupi & cat & riki lover  
 📚 always reading something random  
 🧠 fan of true crime podcasts  
 🍙 snack breaks are sacred  
